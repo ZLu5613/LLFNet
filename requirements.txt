@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+SimpleITK
+opencv_python
+opencv_python_headless
+torch
+torchvision
+tqdm
+sacred
