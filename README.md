@@ -1,7 +1,7 @@
 # LLFNet
 
 ## Dependencies
-Please install the essential dependencies by running:
+Please install the essential dependencies by running:  
 `pip install -r requirements.txt`
 
 ## Data pre-processing
